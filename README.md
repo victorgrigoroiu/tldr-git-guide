@@ -1,4 +1,9 @@
 # TLDR; Git guide (wip)
 
-* [initialize repository]()
-* [clone existing repository]()
+## Overview
+* [initialize repository](#inititalize-repository)
+* [clone existing repository](#clone-existing-repository)
+
+### inititalize repository
+
+### clone existing repository
