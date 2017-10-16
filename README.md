@@ -4,6 +4,6 @@
 * [initialize repository](#inititalize-repository)
 * [clone existing repository](#clone-existing-repository)
 
-### - inititalize repository
+### inititalize repository
 
-### - clone existing repository
+### clone existing repository
