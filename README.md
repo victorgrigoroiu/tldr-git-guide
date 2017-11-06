@@ -3,7 +3,18 @@
 ## Overview
 * [initialize repository](#inititalize-repository)
 * [clone existing repository](#clone-existing-repository)
+* [add file to repository](#add-file-to-repository)
 
-### inititalize repository
+### Inititalize repository
 
-### clone existing repository
+```
+$ git init
+```
+
+### Clone existing repository
+
+```
+git clone URL path/to/folder
+```
+### Add file to repository
+
