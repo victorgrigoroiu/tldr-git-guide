@@ -1,5 +1,10 @@
 # TLDR; Git guide (wip)
 
+## Some Useful Links
+
+* [git cheat sheet - PDF](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
+* [Pro Git E-book](https://git-scm.com/book/en/v2) 
+
 ## Overview
 * [initialize repository](#inititalize-repository)
 * [clone existing repository](#clone-existing-repository)
