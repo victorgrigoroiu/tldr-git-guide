@@ -2,7 +2,7 @@
 
 ## Some Useful Links
 
-* [git cheat sheet - PDF](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
+* [git cheat sheet - PDF](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
 * [Pro Git E-book](https://git-scm.com/book/en/v2)
 * [Mark down language guide](https://guides.github.com/features/mastering-markdown/)
 
