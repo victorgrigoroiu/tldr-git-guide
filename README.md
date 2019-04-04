@@ -10,13 +10,13 @@
 * [Scrub-Lord commands](#scrub-lord-commands)
 
 ## Scrub-Lord commands
-Inititalize repository: `git init`
-Clone existing repository: `git clone URL`
-Add file to repository: `git add ./path/to/folder`
-Remove files staged for a git commit: `git reset path/to/file`
-Show staging area: `git status`
-Show commit history: `git log --graph --decorate --oneline`
-Create a new branch: `git checkout -b  branchname`
+- Inititalize repository: `git init`
+- Clone existing repository: `git clone URL`
+- Add file to repository: `git add ./path/to/folder`
+- Remove files staged for a git commit: `git reset path/to/file`
+- Show staging area: `git status`
+- Show commit history: `git log --graph --decorate --oneline`
+- Create a new branch: `git checkout -b  branchname`
 
 ## Commit Rebase
 
