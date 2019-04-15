@@ -23,7 +23,7 @@
 1. pull branch and put "my commits on top" `git pull --rebase`
 1. create new feature/bug/hotfix... `git checkout -b nameofbranch/issue-description`
 1. go to the other branch and unleash hell (rebase ?) `git reset --hard HEAD~1`
-1. switch back to the new branch `git checkout -b nameofbranch/issue-description`
+1. switch back to the new branch `git checkout nameofbranch/issue-description`
 1. push commit(s) for pull requests `git push -u origin feature/387-new-detail-search-fields`
-1. go back to the main work branch pull the merge
-1. delete the "feature"-branch
+1. go back to the main work branch pull the merge `git checkout mainworkbranch && git pull origin mainworkbranch`
+1. delete the "feature"-branch (? how ?)
