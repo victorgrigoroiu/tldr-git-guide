@@ -27,3 +27,7 @@
 1. push commit(s) for pull requests `git push -u origin feature/387-new-detail-search-fields`
 1. go back to the main work branch pull the merge `git checkout mainworkbranch && git pull origin mainworkbranch`
 1. delete the "feature"-branch (? how ?)
+
+## Misc
+
+1. show all the branches (local/origin) `git branch -a`
