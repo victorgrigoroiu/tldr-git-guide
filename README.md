@@ -5,6 +5,7 @@
 * [git cheat sheet - PDF](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
 * [Pro Git E-book](https://git-scm.com/book/en/v2)
 * [Mark down language guide](https://guides.github.com/features/mastering-markdown/)
+* [More md syntax](https://www.markdownguide.org/basic-syntax)
 
 ## Overview
 * [Scrub-Lord commands](#scrub-lord-commands)
@@ -25,7 +26,8 @@
 1. go to the other branch and unleash hell (rebase ?) `git reset --hard HEAD~1`
 1. switch back to the new branch `git checkout nameofbranch/issue-description`
 1. push commit(s) for pull requests `git push -u origin nameofbranch/issue-description`
-1. go back to the main work branch pull the merge `git checkout mainworkbranch && git pull origin mainworkbranch`
+1. go back to the main work branch pull the merge 
+   `git checkout mainworkbranch && git pull origin mainworkbranch`
 1. delete the `feature`-branch `git branch -D branch_name` (more on this [here](https://linuxize.com/post/how-to-delete-local-and-remote-git-branch/))
 
 ## Resolve conflict of feature branch
