@@ -24,9 +24,9 @@
 1. create new feature/bug/hotfix... `git checkout -b nameofbranch/issue-description`
 1. go to the other branch and unleash hell (rebase ?) `git reset --hard HEAD~1`
 1. switch back to the new branch `git checkout nameofbranch/issue-description`
-1. push commit(s) for pull requests `git push -u origin feature/387-new-detail-search-fields`
+1. push commit(s) for pull requests `git push -u origin nameofbranch/issue-description`
 1. go back to the main work branch pull the merge `git checkout mainworkbranch && git pull origin mainworkbranch`
-1. delete the "feature"-branch (? how ?)
+1. delete the `feature`-branch `git branch -D branch_name` (more on this [here](https://linuxize.com/post/how-to-delete-local-and-remote-git-branch/))
 
 ## Resolve conflict of feature branch
 
