@@ -9,6 +9,8 @@
 
 ## Overview
 * [Scrub-Lord commands](#scrub-lord-commands)
+* [Commit Rebase](#commit-rebase)
+* [Resolve conflict of feature branch](resolve-conflict-of-feature-branch)
 
 ## Scrub-Lord commands
 - Inititalize repository: `git init`
@@ -26,7 +28,7 @@
 1. go to the other branch and unleash hell (rebase ?) `git reset --hard HEAD~1`
 1. switch back to the new branch `git checkout nameofbranch/issue-description`
 1. push commit(s) for pull requests `git push -u origin nameofbranch/issue-description`
-1. go back to the main work branch pull the merge `git checkout mainworkbranch && git pull origin mainworkbranch`
+1. go back to your main work branch and pull the merge<br/>`git checkout mainworkbranch && git pull origin mainworkbranch`
 1. delete the `feature`-branch `git branch -D branch_name` (more on this [here](https://linuxize.com/post/how-to-delete-local-and-remote-git-branch/))
 
 ## Resolve conflict of feature branch
