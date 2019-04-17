@@ -28,6 +28,11 @@
 1. go back to the main work branch pull the merge `git checkout mainworkbranch && git pull origin mainworkbranch`
 1. delete the "feature"-branch (? how ?)
 
+## Resolve conflict of feature branch
+
+1. go to the `feature` branch `git checkout feature/some-info-of-feature`
+1. merge `master` to your `feature` branch `git merge master` (while on the feature branch)
+
 ## Misc
 
-1. show all the branches (local/origin) `git branch -a`
+- show all the branches (local/origin) `git branch -a`
