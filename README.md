@@ -29,7 +29,7 @@
 1. switch back to the new branch `git checkout nameofbranch/issue-description`
 1. push commit(s) for pull requests `git push -u origin nameofbranch/issue-description`
 1. go back to your main work branch and pull the merge<br/>`git checkout mainworkbranch && git pull origin mainworkbranch`
-1. delete the `feature`-branch `git branch -D branch_name` (more on this [here](https://linuxize.com/post/how-to-delete-local-and-remote-git-branch/))
+1. delete the `feature`-branch `git branch -d branch_name` (more on this [here](https://linuxize.com/post/how-to-delete-local-and-remote-git-branch/))
 
 ## Resolve conflict of feature branch
 
